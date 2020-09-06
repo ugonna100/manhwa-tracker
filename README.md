@@ -11,7 +11,12 @@ Make sure to download all of these.
 
 3. Create a github account: https://github.com/join
 
-4. Git clone this repo: 
+4. Git clone this repo
+    - in command line, go to the folder you want to save your code at by using `cd`
+        Ex. `cd E:\Neople\DFO`
+    - Then run git clone and provide the url for this repo with .git at the end.
+        Ex. `git clone https://github.com/yeetwarrior/yeet-app.git
+    now your folder should be added and you can view them by going to the folder in any editor. 
 
 5. Download Anaconda: https://www.anaconda.com/products/individual
     This is a program that contains python and handles creating environments for it. It'll make handling packages a lot simpler.
